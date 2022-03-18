@@ -1,0 +1,34 @@
+.main-container {
+    width: 600px;
+    margin: 200px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.stars {
+    display: flex;
+    justify-content: space-around;
+}
+
+.fa-star {
+    cursor: pointer;
+    font-size: 90px;
+    color: black;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.white {
+    color: black;
+}
+
+.orange {
+    color: orange;
+}
+
+.rating {
+    font-size: 90px;
+}
